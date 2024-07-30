@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soxial</string>
+    <string name="action_settings">Settings</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_riky_ripaldo">RikyRipaldo</string>
+    <string name="center">Center</string>
+    <string name="create">Create</string>
+    <string name="akun">Akun</string>
+    <string name="login">Login with Google</string>
+    <string name="apikey" translatable="false">453256167677-nfvhdh26u1ieseis7krsl54gs6no27po.apps.googleusercontent.com</string>
+    <string name="logout">Logout</string>
+    <string name="pilih_video">Pilih Video</string>
+</resources>

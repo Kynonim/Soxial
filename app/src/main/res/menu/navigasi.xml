@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/center_fragement"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/center"/>
+
+    <item
+        android:id="@+id/create_fragment"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/create"/>
+
+    <item
+        android:id="@+id/akun_fragment"
+        android:icon="@drawable/baseline_manage_accounts_24"
+        android:title="@string/akun"/>
+
+</menu>
